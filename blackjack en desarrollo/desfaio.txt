@@ -1,0 +1,6 @@
+DESAFÏO:
+1. Actualizar el puntaje en el DOM
+2. Botón para reiniciar el Juego
+3. Hacer jugar al croupier
+4. Validar blackjack
+5. Sistemas de apuestas y llevar cuenta del saldo total
